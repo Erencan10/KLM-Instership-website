@@ -103,9 +103,9 @@
         </div>
 
         <div class="faq-item">
-            <h3>I’m looking for an internship that starts January 2025 or later. Is this event useful for me?</h3>
+            <h3>I’m looking for an internship that starts September 2025 or later. Is this event useful for me?</h3>
             <p>
-                This internship market is only for internships starting in/around September 2024. Let us know if you want to come to the E&M internship market 
+                This internship market is only for internships starting in/around February 2025. Let us know if you want to come to the E&M internship market 
                 for a later period by sending an email to 
                 <a href="mailto:stagesem@klm.com">stagesem@klm.com</a>. Mention in what period you want/have to do your internship.
             </p>
