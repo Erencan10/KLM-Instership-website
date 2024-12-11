@@ -17,7 +17,7 @@
             you can send him/her an email on the day or in the days after the internship market. It can help if you add your CV to the email.
         </p>
 
-        <a href="https://drive.google.com/drive/folders/1T0SnW1FBBz_LINOI15v6nFIb5D5LxTOt" class="btn">Assignments</a>
+        <a href="https://drive.google.com/drive/folders/1T0SnW1FBBz_LINOI15v6nFIb5D5LxTOt" target="_blank" class="btn">Assignments</a>
 
         <p>
             When you want to see all internship vacancies which are currently open to apply, go to 
